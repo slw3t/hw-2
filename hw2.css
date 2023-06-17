@@ -1,0 +1,93 @@
+ul {
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    color: #2196F3;
+}
+main {
+    margin-top: 80px;
+}
+
+header {
+position: absolute;
+width: 1600px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+.WebStudio {
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+}
+.menunav {
+    position: absolute;
+width: 281px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
+li > a {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #212121;
+transition: 1s ease-in-out;
+}
+.studio {
+    position: absolute;
+width: 45px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
+.portfolio {
+    position: absolute;
+width: 72px;
+height: 16px;
+left: 548px;
+top: 32px;
+}
+.contacts {
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 670px;
+top: 32px;
+}
+.contacts-list > li > a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #757575;
+    
+}
+.info {
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+}
+.number {
+    position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+}
